@@ -203,5 +203,14 @@
       "Great work traversing the revision history!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1771151997.470412,
+    "completed_at": 1771151999.964632,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
   }
 ]
